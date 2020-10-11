@@ -1,2 +1,2 @@
 # To-Do-List
-Using jQuery
+Using Vanilla Javascript
